@@ -1,4 +1,4 @@
-# CV_CW
+# Plant Disease Detection
 Computer Vision course work
 
 # 🌱 Plant Disease Detection
